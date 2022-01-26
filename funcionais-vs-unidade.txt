@@ -1,0 +1,3 @@
+Testes funcionais são definidos de acordo com os requisitos funcionais do programa, isto é, quais funções o software contemplará.
+Por outro lado, teste de unidade procuram testar a menor unidade testável do sistema. Assim, caso exista uma função de soma, por exemplo, o teste de unidade
+seria responsável por verificar o funcionamento dessa função.
