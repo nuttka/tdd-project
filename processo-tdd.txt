@@ -1,0 +1,5 @@
+Escreva um teste funcional. Caso passe e a aplicação não precisa de refatoração, volte a escrever um teste funcional. Caso não passe, vá para o processo do teste unitário
+Caso passe e a aplicação precisa de refatoração, vá para o teste unitário.
+
+No teste unitário, escreva o teste. Caso passe e precise de refatoração, escreva o código mínimo. Caso não passe, escreva o código mínimo e volte a verificar se passa ou não. 
+Se passou e não precisa de refatorar, escreva um teste de unidade.
